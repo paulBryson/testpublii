@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>sillyRobut</title>
+    <link href="https://paulbryson.github.io/testpublii/feed.xml" rel="self" />
+    <link href="https://paulbryson.github.io/testpublii" />
+    <updated>2024-12-12T16:10:13-07:00</updated>
+    <author>
+        <name>Paul</name>
+    </author>
+    <id>https://paulbryson.github.io/testpublii</id>
+
+    <entry>
+        <title>A Nu Start</title>
+        <author>
+            <name>Paul</name>
+        </author>
+        <link href="https://paulbryson.github.io/testpublii/a-nu-start.html"/>
+        <id>https://paulbryson.github.io/testpublii/a-nu-start.html</id>
+
+        <updated>2024-12-12T16:10:13-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Let's see how this works out. sdfsfdsdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Let's see how this works out.   </p>
+<p> </p>
+<p> </p>
+<h1>Section header</h1>
+<p>sdfsfdsdf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

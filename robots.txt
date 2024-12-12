@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paulbryson.github.io/testpublii/sitemap.xml

@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sillyRobut",
+    "description": "",
+    "home_page_url": "https://paulbryson.github.io/testpublii",
+    "feed_url": "https://paulbryson.github.io/testpublii/feed.json",
+    "user_comment": "",
+    "icon": "https://paulbryson.github.io/testpublii/media/website/sillyRobut-Logo.png",
+    "author": {
+        "name": "Paul"
+    },
+    "items": [
+        {
+            "id": "https://paulbryson.github.io/testpublii/a-nu-start.html",
+            "url": "https://paulbryson.github.io/testpublii/a-nu-start.html",
+            "title": "A Nu Start",
+            "summary": "Let's see how this works out. sdfsfdsdf",
+            "content_html": "<p>Let's see how this works out.   </p>\n<p> </p>\n<p> </p>\n<h1>Section header</h1>\n<p>sdfsfdsdf</p>",
+            "author": {
+                "name": "Paul"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-12T16:10:13-07:00",
+            "date_modified": "2024-12-12T16:10:13-07:00"
+        }
+    ]
+}
