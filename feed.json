@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://paulbryson.github.io/testpublii/second-post.html",
+            "url": "https://paulbryson.github.io/testpublii/second-post.html",
+            "title": "second post",
+            "summary": "better than the first",
+            "content_html": "<p>better than the first</p>",
+            "author": {
+                "name": "Paul"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-12T16:43:29-07:00",
+            "date_modified": "2024-12-12T16:43:29-07:00"
+        },
+        {
             "id": "https://paulbryson.github.io/testpublii/a-nu-start.html",
             "url": "https://paulbryson.github.io/testpublii/a-nu-start.html",
             "title": "A Nu Start",

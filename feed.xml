@@ -3,12 +3,32 @@
     <title>sillyRobut</title>
     <link href="https://paulbryson.github.io/testpublii/feed.xml" rel="self" />
     <link href="https://paulbryson.github.io/testpublii" />
-    <updated>2024-12-12T16:10:13-07:00</updated>
+    <updated>2024-12-12T16:43:29-07:00</updated>
     <author>
         <name>Paul</name>
     </author>
     <id>https://paulbryson.github.io/testpublii</id>
 
+    <entry>
+        <title>second post</title>
+        <author>
+            <name>Paul</name>
+        </author>
+        <link href="https://paulbryson.github.io/testpublii/second-post.html"/>
+        <id>https://paulbryson.github.io/testpublii/second-post.html</id>
+
+        <updated>2024-12-12T16:43:29-07:00</updated>
+            <summary>
+                <![CDATA[
+                    better than the first
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>better than the first</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Nu Start</title>
         <author>
